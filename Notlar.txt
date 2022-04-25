@@ -1,0 +1,17 @@
+  		 3. Bölüm
+Return 0: Herhangi kod satırında hata aolur ise kodları çalıştırmaz.
+Scanf: Kullanıcıdan değer girilmesini ister. 
+
+
+  4. Bölüm				         5. Bölüm
+*Char(dizi)--%s---------- 		 * Çarpma-*
+*Char--------%c----1 byte		 * Bölme-/
+*int---------%d----4 byte		 * Mod Alma-%
+*float-------%f----4 byte		 * ++sayi; sayıyı 1 artırıp. kaydeder.
+*double------%lf---8 byte		 * sayi++; Sayıyı kaydedip, 1 arttırır.
+*short int---------2 byte		 *Dönüştürme Basmağı: int->float->dobule
+*long int----------4 byte		
+
+
+	6. Bölüm
+ 

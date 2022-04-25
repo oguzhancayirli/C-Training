@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646750112 source:c:\users\oðuzhan Çayýrlý\desktop\c,c++ dersleri\scanffkullanimi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

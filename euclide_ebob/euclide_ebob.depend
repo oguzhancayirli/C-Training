@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648042199 source:c:\users\oðuzhan Çayýrlý\desktop\c ve c++ dersleri\euclide_ebob\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

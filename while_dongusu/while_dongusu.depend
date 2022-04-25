@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647362170 source:c:\users\oðuzhan Çayýrlý\desktop\c ve c++ dersleri\while_dongusu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
